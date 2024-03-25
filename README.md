@@ -1,6 +1,6 @@
 ### Moien! 👋
-🌱 I try to learn Rust, but mostly give up halfway.
-💩 Nothing on this profile is of any value. It's just me uploading playground style projects.
+🌱 I try to learn Rust, but mostly give up halfway.\
+💩 Nothing on this profile is of any value. It's just me uploading playground style projects.\
 
 Cheers!
 
